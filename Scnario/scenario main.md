@@ -1,0 +1,26 @@
+## scenario Main
+Preface:
+The purpose of this scenario is explaning and describing of a library system.
+In this system all activies suchus:
+Adding or removing a member
+Adding or removing a book
+Lending a book
+Returning back a book
+And etc…are done.
+By using a computer
+This library has:
+The information at book which should put in the system:
+Name of the book
+Name of author
+Name of publication 
+Number of pages
+Code of the book in the library
+And the status of the book :borrowed or present
+The information which a user should put in the system as he registers:
+Name
+Age
+Address
+Username 
+Password
+Then he can borrow a book and so he has a rnembership code which is known by that.
+To each  member a membership card is given which is valid for 1year and after that it needs to be exte
