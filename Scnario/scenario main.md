@@ -1,4 +1,4 @@
-## scenario Main
+## scenario main
 Preface:
 The purpose of this scenario is explaning and describing of a library system.
 In this system all activies suchus:
@@ -9,10 +9,10 @@ Returning back a book
 And etc…are done.
 By using a computer
 This library has:
-The information at book which should put in the system:
+The information at book which should bc put in the system:
 Name of the book
 Name of author
-Name of publication 
+Name of publicatim
 Number of pages
 Code of the book in the library
 And the status of the book :borrowed or present
