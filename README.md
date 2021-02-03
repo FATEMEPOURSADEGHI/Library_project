@@ -2,6 +2,9 @@
 # Library_project
 Library system project for software engineering lab course
 
+# Features of this system
+* Providing a platform for the people who want to borrow books
+* High speed of book searching
 
 # Analysis and design of the project
 
