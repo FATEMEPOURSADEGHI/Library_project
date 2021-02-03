@@ -7,14 +7,17 @@ In this system all activies suchus:
 3. Lending a book  
 4. Returning back a book  
 And etc…are done.  
-By using a computer  
+By using a computer   
+
+This project has user and manager entities and books.   
+
 Information from the book that must be registered in the system: 
 1. Name of the book  
 2. Name of author  
 3. Name of publication 
 4. Number of pages  
 5. Code of the book in the library  
-6. And the status of the book :borrowed or present  
+6. And the status of the book : borrowed or present  
 
 The information which a user should put in the system as he registers:  
 1. Name  
