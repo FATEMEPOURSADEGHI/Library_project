@@ -1,8 +1,8 @@
 ## scenario user
-A user:
-Can borrow a book and return it back,  
-see the list of borrowed books,  
-see the list of available books  
-Search a book by its name,   
-its author or its publication  
-Change the username and password.
+A user:  
+1. Can borrow a book and return it back,  
+2. see the list of borrowed books,  
+3. see the list of available books  
+4. Search a book by its name,   
+5. its author or its publication  
+6. Change the username and password.
