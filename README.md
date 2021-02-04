@@ -14,6 +14,8 @@ Library system project for software engineering lab course
 * [Class Diagram](https://github.com/FATEMEPOURSADEGHI/Library_project/blob/main/Documentation/Class%20Diagram.md)
 * [Scenario Manager](https://github.com/FATEMEPOURSADEGHI/Library_project/blob/main/Scnario/scenario%20manager.md)
 * [Scenario user](https://github.com/FATEMEPOURSADEGHI/Library_project/blob/main/Scnario/scenario%20user.md)
+* [Scenario Main](https://github.com/FATEMEPOURSADEGHI/Library_project/blob/main/Documentation/scenario%20main.md)
+* [Requirements](https://github.com/FATEMEPOURSADEGHI/Library_project/blob/main/Documentation/Requirements.md)
 
 
 
